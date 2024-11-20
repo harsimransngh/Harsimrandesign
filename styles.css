@@ -14,13 +14,13 @@
 }
 
 body {
-    background-color: peachpuff;
+    background-color: rgb(27, 76, 160);
     max-width:1200px;
     margin:0 auto;
 }
 
 .header {
-    background-image: linear-gradient(black, darkslategray);
+    background-image: linear-gradient(rgb(30, 25, 25), darkslategray);
     height: 200px;
 }
 
